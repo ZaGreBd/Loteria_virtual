@@ -66,9 +66,9 @@ function addToList(num, pos) {
 
 ## Imagens da tela
 Tela1: Tela de abertura
-![Tela 1](/_images/Tela1.png)
+![Tela 1](/_images/tela1.png)
 Tela2: 6 Números digitados, dois sorteados
-![Tela 2](/_images/Tela2.png)
+![Tela 2](/_images/tela2.png)
 
 
 #### Referências
