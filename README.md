@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Simulador de LOTERIA
 
 Este projeto é um simulador da *mega sena*, onde o usuário digita seis números, e sorteamos aleatoriamente
@@ -74,8 +73,3 @@ Tela 2: 6 Números digitados, dois sorteados
 * HTML: [Wikipedia](https://pt.wikipedia.org/wiki/HTML)
 * CSS: [W3Schools](https://pt.wikipedia.org/wiki/Cascading_Style_Sheets)
 * JS: [Wikipedia](https://pt.wikipedia.org/wiki/JavaScript)
-=======
-# Loteria_virtual
-
-by Pedro Neto
->>>>>>> f8fed89db54154e4221894ed86ae3ff56d3d2df3
