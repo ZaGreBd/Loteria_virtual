@@ -12,7 +12,6 @@ outros seis números e comparamos para verificar quantos números você acertou
 3. **JS**: JavaScript (frequentemente abreviado como JS) é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma (protótipos, orientado a objeto, imperativo e, funcional).
 4. ~~**JQuery**~~: Não foi utilizado
 
-
 ## Funções Principal
 Aqui será apresentado as duas principais funções do site
 
